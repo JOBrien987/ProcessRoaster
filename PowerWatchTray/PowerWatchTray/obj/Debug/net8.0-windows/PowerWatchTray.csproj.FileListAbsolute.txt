@@ -1,0 +1,16 @@
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\PowerWatchTray.exe
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\angel.ico
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\devil.ico
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\PowerWatchTray.deps.json
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\PowerWatchTray.runtimeconfig.json
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\PowerWatchTray.dll
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\bin\Debug\net8.0-windows\PowerWatchTray.pdb
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.AssemblyInfoInputs.cache
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.AssemblyInfo.cs
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.csproj.CoreCompileInputs.cache
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.dll
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\refint\PowerWatchTray.dll
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.pdb
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\PowerWatchTray.genruntimeconfig.cache
+C:\Users\jayob\source\repos\PowerWatchTray\PowerWatchTray\obj\Debug\net8.0-windows\ref\PowerWatchTray.dll
